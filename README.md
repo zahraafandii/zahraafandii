@@ -1,3 +1,11 @@
+<div align="center">
+
+𝓗𝓲! 𝓘'𝓶 𝓩𝓪𝓱𝓻𝓪 ♡
+୨୧ ───────────────────────────── ୨୧
+
+</div>
+
+
 # 💫 About Me:
 I’m a seventh-semester Computer Science & Statistics undergraduate at BINUS University passionate about transforming data into meaningful insights and data-driven solutions. My interests include statistical modeling, data analysis, predictive analytics, data visualization, time series forecasting, and natural language processing. Through coursework, research, and hands-on projects, I enjoy exploring complex problems and applying statistical and computational approaches to real-world challenges.
 
